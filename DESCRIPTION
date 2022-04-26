@@ -12,7 +12,7 @@ Description: A visual exploration tool for multiple sequence alignment
     'ggtree', boxplot, genome map and so on. More features: visualization 
     of sequence logos, sequence bundles, RNA secondary structures and detection 
     of sequence recombinations.
-Depends: R (>= 4.1.0)
+Depends: R (>= 3.5.0)
 Imports:
     Biostrings, 
     ggplot2,
